@@ -1,2 +1,0 @@
-# doc
-Privacy Policy
